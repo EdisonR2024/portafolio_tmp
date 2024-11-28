@@ -1,0 +1,23 @@
+{
+  "name": "portafolio_tmp",
+  "version": "1.0.0",
+  "description": "Portafolio de Pruebas",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdisonR2024/portafolio_tmp.git"
+  },
+  "author": "Edison R.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdisonR2024/portafolio_tmp/issues"
+  },
+  "homepage": "https://github.com/EdisonR2024/portafolio_tmp#readme",
+  "dependencies": {
+    "eins-modal": "^2.2.2",
+    "normalize.css": "^8.0.1"
+  }
+}
